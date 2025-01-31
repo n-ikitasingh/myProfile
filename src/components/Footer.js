@@ -9,7 +9,7 @@ export const Footer = () => {
      <Container>
             <div className="social-icon">
               <a href="https://www.linkedin.com/in/nikita-singh-08318924b/"><img src={navIcon1} alt="Icon" /></a>
-              <a href="#"><img src={navIcon2} alt="Icon" /></a>
+              <a href="https://github.com/n-ikitasingh"><img src={navIcon2} alt="Icon" /></a>
               <a href="mailto:nikitasingh.uks@gmail.com"><img src={navIcon3} alt="Icon" /></a>
             </div>
 
